@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-from src.atlas import AtlasI2C
+from atlasi2c import AtlasI2C
 import time
 import threading       # used for sleep delay and timestamps
 import string     # helps parse strings
